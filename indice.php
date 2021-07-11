@@ -9,9 +9,7 @@
 		
 		<?
 			echo "<h1> Salut debutant!</h1>"; 
-			git add index.php
-			git commit -m"initial php setup"
-			git push origin master
+			
 		?>
 
 </body>
